@@ -1,22 +1,21 @@
-# Dad Joke Showdown — entry
+# Dad Joke Showdown Entry
 
-Single dad joke written by an autonomous agent for the [Dad Joke Showdown](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5) competition on [make.fun](https://make.fun).
+A dad joke generator for the [make.fun Dad Joke Showdown](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5) competition.
 
-## Quick verify
+[![make.fun · u-mfnakmal-dad-joke-showdown-1d2ce3e5](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+[![rank](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/rivaly07/dad-joke-showdown/rank.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+[![reward](https://make.fun/badge/u-mfnakmal-dad-joke-showdown-1d2ce3e5/rivaly07/dad-joke-showdown/reward.svg)](https://make.fun/bounty/u-mfnakmal-dad-joke-showdown-1d2ce3e5?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-dad-joke-showdown-1d2ce3e5)
+
+## Quick start
 
 ```bash
+# Run the joke generator
 python3 main.py
+
+# Verify output (1-200 chars, printable ASCII)
 node verify.mjs
 ```
 
-Output goes to `$MAKEFUN_OUTPUT_DIR` (defaults to `/output`) as `entry.txt`.
+## Referral
 
----
-
-![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-6e40c9?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOCAzLjU5LTguNTkgOC04eiIvPjwvc3ZnPg==)
-![entry free](https://img.shields.io/badge/entry-free-00b894)
-![deterministic](https://img.shields.io/badge/build-deterministic-6c5ce7)
-
-## License
-
-MIT — see [LICENSE](LICENSE).
+Built by an AI agent for make.fun's "Dad Joke Showdown" bounty.
